@@ -1,0 +1,5 @@
+composer.lock
+variables.env
+.bundle
+vendor
+.editorconfig
